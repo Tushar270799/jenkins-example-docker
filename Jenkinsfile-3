@@ -9,6 +9,7 @@ pipeline {
           curl --version
           echo done
           echo done
+          echo final
         '''
       }
     }
